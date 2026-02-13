@@ -7,3 +7,9 @@ This project was undertaken by myself and my team, including Anna Radmilovich, B
 **Data Visualization:** Once the data was cleaned, the team proceeded to visualize our regression analysis. Initially, we encountered challenges in creating a sensitivity model compared to a regression model with the target variable. We explored different regression models but struggled with defining regression lines to show average scores in correlation. The team considered various factors such as study hours vs. scores, part-time job vs. non-job, and career aspirations vs. related/non-related classes.
 
 Overall, the project involved thorough data selection, cleaning, and visualization processes to identify key factors affecting student course grades. The team utilized Python programming and regression analysis techniques to derive meaningful insights from the dataset.
+
+The contents of this repository include: 
+
+**Overview PowerPoint: CodeCoven - Regression.pdf**
+**Regression_Analysis_Code.ipynb**
+**Student Score Dataset: student-scores - student-scores.csv**

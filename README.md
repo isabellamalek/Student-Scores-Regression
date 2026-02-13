@@ -11,5 +11,7 @@ Overall, the project involved thorough data selection, cleaning, and visualizati
 The contents of this repository include: 
 
 **Overview PowerPoint: CodeCoven - Regression.pdf**
+
 **Regression_Analysis_Code.ipynb**
+
 **Student Score Dataset: student-scores - student-scores.csv**
